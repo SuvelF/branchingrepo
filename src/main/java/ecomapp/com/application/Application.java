@@ -11,4 +11,5 @@ public class Application {
 	}
  String name;
 double price = 12.34;
+int number = 0;
 }
