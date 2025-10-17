@@ -12,4 +12,6 @@ public class Application {
  String name;
 double price = 12.34;
 int number = 0;
+char gender = F;
+boolean status = false;
 }
