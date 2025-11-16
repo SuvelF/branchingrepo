@@ -10,4 +10,11 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
  String name;
+
+	public void m2(){
+
+	}
+	public void m3(){
+		
+	}
 }
